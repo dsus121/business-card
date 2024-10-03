@@ -1,0 +1,39 @@
+body {
+    margin: 20px;
+    font-family: Georgia, serif;
+    color: #4D243D;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 5px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 10;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background: #CAC2B5;
+    border-bottom: 10px solid #422D10;
+    
+
+.border-smokeyblack{
+    border: 2px dotted #0F0B05;
+    border-radius: 10px;
+    padding: 8px;	
+}
+
+/*
+why can't i stack the text on top of 
+eachother?
+
+
+*/
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
